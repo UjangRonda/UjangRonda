@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ardian Rangga! 🎮</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7B93E&center=true&vCenter=true&width=500&height=40&lines=Game+Developer+%7C+Unity+%7C+Flutter+%7C+Web+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=F7B93E&center=true&vCenter=true&width=500&height=40&lines=Game+Developer+%7C+Unity+%7C+Flutter+%7C" />
 </p>
 
 ---
