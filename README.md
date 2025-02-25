@@ -23,6 +23,8 @@
   <a href="https://ujangronda.itch.io/oceanopoly">
     <img src="https://i.imgur.com/qLK5POu.png" alt="Click to Play!" width="200"/>
   </a>
+  <img src="https://i.imgur.com/0unFw3c.jpeg" alt="Click to Play!" width="200"/>
+  
 </p>
 
 
