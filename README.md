@@ -26,7 +26,7 @@
 ### 📊 Game Projects  
 <p align="center">
   <a href="https://ujangronda.itch.io/oceanopoly">
-    <img src="https://i.imgur.com/qLK5POu.png" alt="Click to Play!" width="300"/>
+    <img src="https://i.imgur.com/qLK5POu.png" alt="Click to Play!" width="200"/>
   </a>
 </p>
 
