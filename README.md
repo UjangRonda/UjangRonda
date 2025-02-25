@@ -8,7 +8,8 @@
 ### 🚀 About Me
 - 🎮 Passionate about **Game Development**  
 - 🔥 Experience with **Unity (C#) & Flutter (Dart)**  
-- 🎨 Interested in **2D/3D Game Development**  
+- 🎨 Interested in **2D/3D Game Development**
+- Currently working on a roguelike game... If you want to collaborate, feel free to contact me! :)
 
 ---
 
