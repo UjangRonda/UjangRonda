@@ -25,7 +25,7 @@
   </a>
   <img src="https://i.imgur.com/0unFw3c.jpeg" alt="Click to Play!" width="200"/>
   <a href="https://ujangronda.itch.io/gampang">
-    <img src="https://imgur.com/a/M9AexEt" alt="Click to Play!" width="200"/>
+    <img src="[https://imgur.com/a/M9AexEt](https://i.imgur.com/2NVKDlf.png)" alt="Click to Play!" width="200"/>
   </a>
   
 </p>
