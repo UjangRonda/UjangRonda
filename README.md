@@ -18,16 +18,17 @@
 
 ---
 
-### 📊 Game Projects  
-<p align="center">
+### 📊 Game Projects
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://ujangronda.itch.io/oceanopoly">
-    <img src="https://i.imgur.com/qLK5POu.png" alt="Click to Play!" width="200"/>
+    <img src="https://i.imgur.com/qLK5POu.png" alt="Click to Play!" width="300" height="200"/>
   </a>
-  <img src="https://i.imgur.com/0unFw3c.jpeg" alt="Click to Play!" width="200"/>
+  <a href="#">
+    <img src="https://i.imgur.com/0unFw3c.jpeg" alt="Click to Play!" width="200" height="200"/>
+  </a>
   <a href="https://ujangronda.itch.io/gampang">
-    <img src="https://i.imgur.com/2NVKDlf.png" alt="Click to Play!" width="200"/>
+    <img src="https://i.imgur.com/2NVKDlf.png" alt="Click to Play!" width="200" height="200"/>
   </a>
-  
 </p>
 
 
